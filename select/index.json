@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "DREAMS",
+  "base_artist": "ROMANTIC MODE",
+  "createdAt": "2025-12-01T15:09:34.670146Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wildest Dreams",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/01_Wildest_Dreams_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wildest Dreams",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/02_Wildest_Dreams_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Never Give up on Your Dreams",
+      "artist": "Two Steps From Hell",
+      "has_synced": true,
+      "path": "select/03_Never_Give_up_on_Your_Dreams_Two_Steps_From_Hell.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dreams",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/04_Dreams_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dreams",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/05_Dreams_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Big Dreams and Faded Jeans",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/06_Big_Dreams_and_Faded_Jeans_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dreaming My Dreams With You",
+      "artist": "Waylon Jennings",
+      "has_synced": true,
+      "path": "select/07_Dreaming_My_Dreams_With_You_Waylon_Jennings.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dreams",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/08_Dreams_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "In My Wildest Dreams",
+      "artist": "Aaron Tippin",
+      "has_synced": false,
+      "path": "select/09_In_My_Wildest_Dreams_Aaron_Tippin.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Refried Dreams",
+      "artist": "Tim McGraw",
+      "has_synced": true,
+      "path": "select/10_Refried_Dreams_Tim_McGraw.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sweet Dreams (Of You) - Single Version",
+      "artist": "Patsy Cline",
+      "has_synced": true,
+      "path": "select/11_Sweet_Dreams_(Of_You)_-_Single_Version_Patsy_Cline.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sweet Dreams (Of You) (Single Version)",
+      "artist": "Patsy Cline",
+      "has_synced": true,
+      "path": "select/12_Sweet_Dreams_(Of_You)_(Single_Version)_Patsy_Cline.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sweet Dreams Of You",
+      "artist": "Emmylou Harris",
+      "has_synced": true,
+      "path": "select/13_Sweet_Dreams_Of_You_Emmylou_Harris.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sweet Dreams",
+      "artist": "Alan Walker feat. Imanbek",
+      "has_synced": true,
+      "path": "select/14_Sweet_Dreams_Alan_Walker_feat._Imanbek.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sweet Dreams",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/15_Sweet_Dreams_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Until My Dreams Come True",
+      "artist": "Jack Greene",
+      "has_synced": false,
+      "path": "select/16_Until_My_Dreams_Come_True_Jack_Greene.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "You Make My Dreams",
+      "artist": "Rascal Flatts",
+      "has_synced": false,
+      "path": "select/17_You_Make_My_Dreams_Rascal_Flatts.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Ashes of Dreams / New (ver.1.22474487139...)",
+      "artist": "岡部啓一(MONACA)",
+      "has_synced": false,
+      "path": "select/18_Ashes_of_Dreams___New_(ver.1.22474487139...)_岡部啓一(MONACA).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DREAMSHIP",
+      "artist": "イクタ☆アイコ",
+      "has_synced": false,
+      "path": "select/pl_01_DREAMSHIP_イクタ☆アイコ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Dream sky",
+      "artist": "イクタ☆アイコ",
+      "has_synced": false,
+      "path": "select/pl_02_Dream_sky_イクタ☆アイコ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "DREAMS COME TRUE",
+      "artist": "イクタ☆アイコ",
+      "has_synced": false,
+      "path": "select/pl_03_DREAMS_COME_TRUE_イクタ☆アイコ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Dreams are Reality",
+      "artist": "イクタ☆アイコ",
+      "has_synced": false,
+      "path": "select/pl_04_Dreams_are_Reality_イクタ☆アイコ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "DREAM SNIPER",
+      "artist": "イクタ☆アイコ",
+      "has_synced": false,
+      "path": "select/pl_05_DREAM_SNIPER_イクタ☆アイコ.txt"
+    }
+  ]
+}
